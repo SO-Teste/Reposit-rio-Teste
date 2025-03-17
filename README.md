@@ -1,2 +1,2 @@
-# Reposit-rio-Teste
+# Repositorio-Teste
 Direcionado para teste
